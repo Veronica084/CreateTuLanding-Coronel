@@ -1,0 +1,23 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid black ;
+    background: rgba(230, 122, 150, 0.971);
+    background: linear-gradient(#8c5af0, #e4c4df);
+    margin-right: 15px;
+
+}
+
+li{
+    display: inline-block;
+    margin: 10px;
+    cursor: pointer;
+}
+h1{
+    margin-left: 15px;
+    font-size: 15px;
+    font-family:  'Helvetica Neue',cursive;
+    text-transform: uppercase;
+    text-decoration-line: overline;
+}
