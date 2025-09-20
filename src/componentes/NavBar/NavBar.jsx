@@ -13,16 +13,16 @@ const NavBar = () => {
         <nav>
             <ul>
                 <li>
-                  <Link to ="/categoria/Medicion">Medición</Link>
+                  <Link to ="/categoria/medición">Medición</Link>
                 </li>
                 <li>
-                  <Link to = "/categoria/Conductores">Conductores</Link>
+                  <Link to = "/categoria/conductores">Conductores</Link>
                 </li>
                 <li>
-                  <Link to ="/categoria/Proteccion">Protección</Link>
+                  <Link to ="/categoria/protección">Protección</Link>
                 </li>
                 <li>
-                  <Link to ="/categoria/herriementas">Herramientas</Link>
+                  <Link to ="/categoria/herramientas">Herramientas</Link>
                 </li>
                 <li>
                   <Link to ="/categoria/alternativa para la eficiencia energetica">Alternativa para la eficiencia energética</Link>
