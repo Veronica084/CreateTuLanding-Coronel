@@ -1,0 +1,31 @@
+
+.contenform{
+    font-family: serif;
+    margin: auto;
+    
+    width: 80%;
+    max-width: 400px;
+    padding: 2.4em 2em;
+    border-radius: 10px;
+    background: linear-gradient(#4771a8, #d7ed10);
+    box-shadow: 0 5px 10px -5px;
+    margin-top: 1em;
+    display: grid;
+    gap: 1em;
+    position: relative;
+}
+
+.inputForm{
+    
+    width: 100%;
+    background-color: none;
+    font-size: 1rem;
+    padding: .3em .3em;
+}
+
+.Checkout{
+    text-align: center;
+    color: #2a5454;
+    border-radius: 5px;
+    font-size: larger;
+}

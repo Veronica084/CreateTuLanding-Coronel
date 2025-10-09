@@ -3,9 +3,10 @@ header{
     align-items: center;
     justify-content: space-between;
     border-bottom: 1px solid black ;
-    background: rgba(230, 122, 150, 0.971);
-    background: linear-gradient(#453c3c, #e4c4df);
+    background: rgba(202, 225, 29, 0.971);
+    background: linear-gradient(#4771a8, #d7ed10);
     margin-right: 15px;
+    font-size: 15px;
 
 }
 
@@ -13,11 +14,28 @@ li{
     display: inline-block;
     margin: 10px;
     cursor: pointer;
+ 
 }
 h1{
-    margin-left: 15px;
-    font-size: 15px;
-    font-family:  'Helvetica Neue',cursive;
+    margin-left: 10px;
+    font-size: 20px;
+    font-family: 'Times New Roman';
     text-transform: uppercase;
-    text-decoration-line: overline;
+    text-decoration-line: none;
+   
+}
+.estiloEnLinea{
+    text-decoration: none;
+    font-size: 17px;
+    color: rgb(14, 2, 49);
+    font-weight: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.estiloEnLinea1{
+    font-size: 25px;
+    font-weight: 20px;
+    color:#f8f4f4;
+    text-decoration: none;
+    
 }

@@ -1,4 +1,11 @@
 .contenedorProductos{
     display: flex;
     flex-wrap: wrap;
+    font-size: medium;
+    
+    
+
+}
+.contencart{
+    font-size: 15px;
 }
