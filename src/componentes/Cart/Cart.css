@@ -3,12 +3,12 @@
     display: flex;
     justify-content: center;
     display: grid;
-    border: 2px solid rgb(106, 218, 72);
+    border: 2px solid rgb(129, 214, 103);
 }
 
 .tamaño1{
     font-size: large;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    color: rgb(4, 86, 33);
+    color: rgb(39, 200, 95);
 }
