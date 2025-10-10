@@ -3,7 +3,7 @@ header{
     align-items: center;
     justify-content: space-between;
     border-bottom: 1px solid black ;
-    background: rgba(202, 225, 29, 0.971);
+    background: rgba(177, 197, 26, 0.971);
     background: linear-gradient(#4771a8, #d7ed10);
     margin-right: 15px;
     font-size: 15px;
@@ -27,7 +27,7 @@ h1{
 .estiloEnLinea{
     text-decoration: none;
     font-size: 17px;
-    color: rgb(14, 2, 49);
+    color: rgb(48, 12, 156);
     font-weight: 20px;
     font-family: 'Courier New', Courier, monospace;
 }
