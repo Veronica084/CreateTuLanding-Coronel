@@ -13,7 +13,7 @@ const Cart = () => {
         return(
             <>
             <h2 className="tamaño1">No hay productos en el carrito. Puede ver nuestra variedad de productos nuevamente</h2>
-            <Link to="/">Ver producto</Link>
+            <Link to="/">VER PRODUCTOS</Link>
 
 
 
