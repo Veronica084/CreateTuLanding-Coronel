@@ -14,7 +14,7 @@ Este es un Proyecto e-commerce creado en el curso de formación básica en React
 -Se finaliza una compra completando un formulario
 -Se envia un id de la compra 
 ## Dominio de sitio
-
+https://create-tu-landing-coronel.vercel.app/ 
 
 
 
