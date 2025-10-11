@@ -14,7 +14,7 @@ const NavBar = () => {
   return (
     <header>
       <Link className="estiloEnLinea1"to ="/">
-      <h1 className="estiloEnLinea1">20 amperios <br />Materiales Eléctricos</h1>
+      <h1 className="estiloEnLinea1">20 amperios <br /> <p className="estiloEnLinea2">Materiales Eléctricos</p></h1>
       </Link>
 
       

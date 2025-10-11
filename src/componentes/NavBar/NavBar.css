@@ -18,24 +18,30 @@ li{
 }
 h1{
     margin-left: 10px;
-    font-size: 20px;
+    font-size: 10px;
     font-family: 'Times New Roman';
     text-transform: uppercase;
     text-decoration-line: none;
+    margin-top: 0.2px;
    
 }
 .estiloEnLinea{
     text-decoration: none;
     font-size: 17px;
-    color: rgb(48, 12, 156);
+    color: rgb(28, 16, 61);
     font-weight: 20px;
     font-family: 'Courier New', Courier, monospace;
 }
 
 .estiloEnLinea1{
-    font-size: 25px;
+    font-size: 15px;
     font-weight: 20px;
     color:#f8f4f4;
     text-decoration: none;
+    font-family: cursive;
     
+}
+.estiloEnLinea2{
+    font-size: 15px;
+    font-family: sans-serif;
 }
